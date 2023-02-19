@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "Hello, World",&d);
+printf ("Hello, World",&d)
