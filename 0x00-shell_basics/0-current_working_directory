@@ -1,4 +1,2 @@
 #!/bin/bash
-path=readlink -f /bin/bash
 DIR_PATH=’dirname $path’
-The absolute path is
