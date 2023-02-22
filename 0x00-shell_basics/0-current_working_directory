@@ -1,2 +1,4 @@
 #!/bin/bash
-#include stdio.h printf pwd
+path=readlink -f /bin/bash
+DIR_PATH=’dirname $path’
+The absolute path is
